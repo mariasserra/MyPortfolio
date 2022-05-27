@@ -1,7 +1,6 @@
 # MyPortfolio
 # Maria Serra Portfolio
 ## Data Analytics
-### Connect with me on linkedin: 
 
 ### Project 1
 
